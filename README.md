@@ -4,4 +4,4 @@ A PHP Docker image based on the official php:7.4.16-apache image and includes ad
 Please note that the image contains also Xdebug.
 
 # Tags
-- 5.0.1,latest (Dockerfile)
+- 5.0.1,latest [(Dockerfile)](https://github.com/neumanniTech/docker-jtl-shop/blob/master/5.0.1/Dockerfile)
